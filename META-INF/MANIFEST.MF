@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+Rsrc-Class-Path: ./ postgresql-42.2.11.jar javafx-swt.jar javafx.base.ja
+ r javafx.controls.jar javafx.fxml.jar javafx.graphics.jar javafx.web.ja
+ r javafx.swing.jar javafx.media.jar
+Rsrc-Main-Class: client.ClientMain
+Class-Path: .
+
